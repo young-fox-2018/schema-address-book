@@ -1,1 +1,4 @@
 https://drive.google.com/open?id=1HX8oFhLwhz03do8ksWUrHI_bvLWgAtrM
+
+Alur:
+- jadi setiap kontak dapat join dan memiliki beberapa grup kontak, dan grup dapat memiliki beberapa kontak yang tegabung, jadi kalau join table dapat menghasilkan kontak dengan properties kontak ditambah dengan id grup atau nama grup yang dia tergabung didalamnya
