@@ -1,1 +1,7 @@
 Copy your URL to screenshot here
+
+https://imgur.com/a/VlcTgoa
+
+Contacts memiliki data nama, perusahaan, nomor telepon dan email, Contacts dapat masuk di dalam Contacts_group karena Contacts_group
+mengambil data dari Contacts dan Groups dengan metode many to many sehingga seluruh data Contacts dan Groups dapat di akses di 
+Contacts_group dengan menggunakan foreign key nya.
