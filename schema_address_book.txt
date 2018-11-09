@@ -1,1 +1,4 @@
 Copy your URL to screenshot here
+https://github.com/abedlubis/schema_db/blob/master/Untitled%20Diagram.png
+
+Karena relasi antar group dan kontak adalah many-to-many jadi dibuat table conjunction baru untuk menghubungkan kedua table
